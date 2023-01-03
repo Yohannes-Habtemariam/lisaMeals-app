@@ -1,0 +1,14 @@
+@import "../../../scss-styling/styleVariables.scss";
+
+.trademarkSection {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 25px;
+
+    img {
+        height: clamp(40px, 10vw, 85px);
+    }
+}

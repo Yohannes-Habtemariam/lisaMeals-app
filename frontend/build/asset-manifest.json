@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9e1bca23.css",
+    "main.js": "./static/js/main.011b2f54.js",
+    "static/media/sustVisual.jpg": "./static/media/sustVisual.c593a95fdaac74ab1982.jpg",
+    "static/media/mainVisualAlternative.jpg": "./static/media/mainVisualAlternative.c218405afc6875066d20.jpg",
+    "static/media/howItWorksVisual.jpg": "./static/media/howItWorksVisual.18d30ef3429948233d25.jpg",
+    "static/media/logo.jpg": "./static/media/logo.e06f9f36a1de430b5292.jpg",
+    "static/media/premiumVisual.jpeg": "./static/media/premiumVisual.798fac3b44997f70b576.jpeg",
+    "static/media/bioLogo.jpg": "./static/media/bioLogo.c25b9d7ae0efc9a82895.jpg",
+    "static/media/petaLogo.jpg": "./static/media/petaLogo.abc42f14c0cc859ad1b5.jpg",
+    "static/media/highProteinLogo.jpg": "./static/media/highProteinLogo.6dd6e8b73bf298765d29.jpg",
+    "index.html": "./index.html",
+    "main.9e1bca23.css.map": "./static/css/main.9e1bca23.css.map",
+    "main.011b2f54.js.map": "./static/js/main.011b2f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1bca23.css",
+    "static/js/main.011b2f54.js"
+  ]
+}
